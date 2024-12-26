@@ -125,3 +125,6 @@ To create a complete and portable supervised classification solution that:
 1. Identifies the best-performing machine learning model for specific data.
 2. Provides an intuitive interface for real-time predictions.
 3. Delivers a containerized application easily deployable in any environment. 🌐
+
+## Application Link
+[Access the Credit Evaluation App](https://creditevaluation-7cvna5mvqkupf3ckgrbihb.streamlit.app/)
